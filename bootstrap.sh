@@ -1,4 +1,4 @@
 #!/bin/bash
 
-mkdir -p opt/{dags,db,logs,plugins}
-chmod -R 777 opt/{dags,db,logs,plugins}
+mkdir -p {dags,db,logs,plugins}
+chmod -R 777 {dags,db,logs,plugins}
